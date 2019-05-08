@@ -1,0 +1,5 @@
+build/Release
+server/node_modules/
+client/node_modules/
+client/semantic
+client/src/assets/
