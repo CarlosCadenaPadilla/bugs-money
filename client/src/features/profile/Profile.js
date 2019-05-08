@@ -219,13 +219,11 @@ export class Profile extends React.Component {
               <div>
                 <Segment>
                   <p>
-                    We are a group of Systems Engineer students from Universidad
-                    del Valle, Cali, Colombia. This application is part of a
-                    project for the Software Development class 2018-2.
+                    This is a example of a app with ReactJs and nodeJs.
                     <br />
                     Feel free to check our GitHub Repo{" "}
                     <a
-                      href="https://github.com/andresfelipe9619/bugs-money"
+                      href="https://github.com/CarlosCadenaPadilla/bugs-money"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
